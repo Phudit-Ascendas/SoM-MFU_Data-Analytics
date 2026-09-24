@@ -2,7 +2,7 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Phudit-Ascendas/SoM-MFU_Data-Analytics&file=./LowCode_DataAnalytics_retail.mlx)
 
-Workshop material for **Mae Fah Luang University, course 1203218 Business Statistics and Data Analytics**. Students are 2nd-year business students with no coding background. They take a messy online-retail order file from raw import to business insight, using **MATLAB Live Editor tasks** (point-and-click tools that write the code for you) and short one-line commands.
+Workshop material for **Mae Fah Luang University, course 1203218 Business Statistics and Data Analytics**. Students will take a messy online-retail order file from raw import to business insight, using **MATLAB Live Editor tasks** (point-and-click tools that write the code for you) and short one-line commands.
 
 ---
 
